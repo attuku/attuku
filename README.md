@@ -1,1 +1,1 @@
-![attuku's GitHub stats](https://github-readme-stats.vercel.app/api?username=attuku&show_icons=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=attuku&theme=slateorange)](https://git.io/streak-stats)
